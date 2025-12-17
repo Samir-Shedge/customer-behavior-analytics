@@ -18,7 +18,7 @@ However, the complete dashboard file (`.pbix`) is included in this repository an
 📂 Dashboard File: `customer_shopping_behavior_dashboard.pbix`
 
 <p align="center">
-  <img src="assets/dashboard.png" alt="Customer Shopping Behavior Dashboard" width="900">
+  <img src="assets/bi_dashboard.png" alt="Customer Shopping Behavior Dashboard" width="900">
 </p>
 
 The dashboard provides a consolidated view of customer behavior, key performance metrics, and interactive filters for deeper exploration.
